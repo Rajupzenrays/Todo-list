@@ -1,0 +1,25 @@
+
+input{
+     border-radius: 20px;
+     padding: 10px;
+     outline: none;
+}
+input::placeholder{
+   color: red;
+   font-weight: bold;
+}
+
+/* ................button............ */
+button{
+     color: #fff;
+     font-size: 20px;
+     padding: 5px 30px 5px 30px;
+     margin-left: 30px;
+     border-radius: 20px;
+     background-color: rgb(149, 32, 196);
+     cursor: pointer;
+     border: none;
+}
+button:hover{
+   box-shadow: 2px 1px 8px rgb(250, 1, 1);
+}

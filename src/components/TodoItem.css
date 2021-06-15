@@ -1,0 +1,12 @@
+span{
+     padding-left: 15px;
+}
+li{
+     margin: 10px;
+}
+input[type="checkbox"]{
+     padding: 4px;
+     display: inline-block;
+     width: 20px;
+     height: 20px;   
+}
